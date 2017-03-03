@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EZAndroid.iml" filepath="$PROJECT_DIR$/EZAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ezcache/ezcache.iml" filepath="$PROJECT_DIR$/ezcache/ezcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ezdownload/ezdownload.iml" filepath="$PROJECT_DIR$/ezdownload/ezdownload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ezimage/ezimage.iml" filepath="$PROJECT_DIR$/ezimage/ezimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eznet/eznet.iml" filepath="$PROJECT_DIR$/eznet/eznet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ezpermission/ezpermission.iml" filepath="$PROJECT_DIR$/ezpermission/ezpermission.iml" />
+    </modules>
+  </component>
+</project>
